@@ -1,0 +1,6 @@
+name,lat,lng,service_type,weekly_pickups
+Granja Central,4.7110,-74.0721,depot,0
+Cliente Norte,4.7600,-74.0300,mixto,2
+Cliente Sur,4.6500,-74.1200,mixto,2
+Cliente Occidente,4.7000,-74.1700,retiro,1
+Cliente Oriente,4.7300,-74.0000,entrega,1
